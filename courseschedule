@@ -79,9 +79,10 @@
 <article class="card" aria-labelledby="course-dates-title">
 <div class="card-header">
 <h2 class="card-title" style="text-align: center;"></h2>
-<h1 id="course-dates-title" class="card-title" style="text-align: center;"><span style="font-size: 32px; font-family: Lato, sans-serif;">PSYC 1101 Schedule &amp; Late Policy</span><span style="font-size: 32px; font-family: Lato, sans-serif;"></span></h1>
-<p><span style="font-size: 20px; font-family: Lato, sans-serif;"><em><span style="font-family: Lato, sans-serif;"><span style="font-size: 20px;">The course late policy is outlined below. Additional details and information about Extensions is available in the Syllabus.</span></span></em></span></p>
-<h2 style="margin: 8pt 0in 4pt; line-height: 24.533335px; break-after: avoid; font-size: 16pt; font-family: 'Aptos Display', sans-serif; color: #0f4761; font-weight: normal; font-style: normal; text-align: start;">Late Policy</h2>
+<hr>
+<h1 id="course-dates-title" class="card-title" style="text-align: center;"><span style="font-size: 32px; font-family: Lato, sans-serif;">PSYC 1101 Course Schedule</span><span style="font-size: 32px; font-family: Lato, sans-serif;"></span></h1>
+<p style="text-align: center;"><span><em><span><span><span style="font-family: Lato, sans-serif;"><span style="font-size: 20px;">The table below will help you stay on track in this course. The reading assignments, graded homework, applied assignments, and exams in each course module are identified below. Assignments and homework are considered </span></span></span></span><strong><span style="font-family: Lato, sans-serif;"><span style="font-size: 20px;">late</span></span></strong><span><span><span style="font-family: Lato, sans-serif;"><span style="font-size: 20px;"> if they are submitted </span></span></span></span><span style="font-family: Lato, sans-serif;"><span style="font-size: 20px;"><strong>after</strong></span></span><span><span><span style="font-family: Lato, sans-serif;"><span style="font-size: 20px;"> the date/time in the Due Date/Availability column (see Late Policy for details). Dates given for exams/quiz are the day and time the assessment opens/is available in BV and the day/time the assessment closes.</span></span></span></span></em></span></p>
+<h2 style="margin: 8pt 0in 4pt; line-height: 24.533335px; break-after: avoid; font-size: 16pt; font-family: 'Aptos Display', sans-serif; color: #0f4761; font-weight: normal; font-style: normal; text-align: start;"><span style="color: #006fbf; font-size: 17px;"><strong>Late Policy</strong></span></h2>
 <p style="margin: 0in 0in 8pt; line-height: 18.4px; font-size: medium; font-family: Aptos, sans-serif; color: #000000; font-style: normal; font-weight: 400; text-align: start;">Coursework is considered&nbsp;late&nbsp;if it is submitted&nbsp;<i>any time</i>&nbsp;after the posted due date and time listed in the Course Schedule.&nbsp;</p>
 <ul type="disc" style="margin-bottom: 0in; color: #000000; font-style: normal; font-weight: 400; text-align: start; margin-top: 0in;">
 <li style="margin-top: 0in; margin-right: 0in; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Up to 24 hours late: 10% (one letter grade) deduction</li>
@@ -90,6 +91,9 @@
 <li style="margin-top: 0in; margin-right: 0in; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">No late work&nbsp;will be accepted after the last class day of the term</li>
 <li style="margin-top: 0in; margin-right: 0in; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Graded in-class activities and extra credit are not covered under the late policy and will not be accepted after the deadline.</li>
 </ul>
+<p style="margin-top: 0in; margin-right: 0in; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;"></p>
+<p style="margin-top: 0in; margin-right: 0in; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;"></p>
+<h2 style="margin-top: 0in; margin-right: 0in; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif; text-align: center;"><span style="font-size: 32px; font-family: Lato, sans-serif;">Course Schedule</span></h2>
 </div>
 <div class="table-wrap">
 <table style="width: 99.978009%; border-collapse: collapse; background-color: #ecf0f1; border-color: #7e8c8d; border-width: 1px; margin-left: auto; margin-right: auto; height: 3201.187317px;" border="1"><caption></caption>
@@ -227,7 +231,7 @@
 <p><span style="font-family: Lato, sans-serif; font-size: 17px;">10/22 (Wed) by 8AM</span></p>
 <p></p>
 <p></p>
-<p><span style="font-family: Lato, sans-serif; font-size: 17px;">8AM on 10/23 (Thu) until 10/24 at 8AM</span></p>
+<p><span style="font-family: Lato, sans-serif; font-size: 17px;">8AM on 10/23 (Thu) until 10/24 (Fri) at 8AM</span></p>
 <p></p>
 <p><span style="font-family: Lato, sans-serif; font-size: 17px;">10/31 (Fri) by 8AM</span></p>
 </th>
