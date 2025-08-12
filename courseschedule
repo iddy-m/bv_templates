@@ -5,73 +5,73 @@
 <div class="card-header">
 <p class="card-title" style="text-align: center;"><span style="font-family: Lato, sans-serif; font-size: 48px;"><strong>Fall 2025 Schedule</strong></span></p>
 </div>
-<table style="border-collapse: collapse; background-color: #c2e0f4; width: 68.646872%; height: 1049.823448px; margin-left: auto; margin-right: auto; border: 1px solid rgb(126, 140, 141);" border="1"><caption><span style="font-size: 24px; font-family: Lato, sans-serif;"><strong>University &amp; Registrar: Important Dates</strong><br><br></span></caption>
+<table style="border-collapse: collapse; background-color: #c2e0f4; width: 68.646872%; height: 1049.823448px; border: 1px solid rgb(126, 140, 141); border-spacing: 1px; margin-left: auto; margin-right: auto;" border="1"><caption><span style="font-size: 24px; font-family: Lato, sans-serif;"><strong>University &amp; Registrar: Important Dates</strong><br><br></span></caption>
 <thead>
 <tr style="height: 49.088226px;">
-<th scope="col" style="border-color: #7e8c8d; width: 26.578551%; background-color: #6480d3; text-align: center; vertical-align: bottom;">
+<th scope="col" style="border-color: #7e8c8d; width: 26.578551%; background-color: #6480d3; text-align: center; vertical-align: bottom; padding: 4px;">
 <h4><span style="font-family: Lato, sans-serif; color: #ffebf6;"><em><span style="font-size: 20px;">Date</span></em></span></h4>
 </th>
-<th scope="col" style="border-color: #7e8c8d; width: 43.912389%; background-color: #6480d3; text-align: center;">
+<th scope="col" style="border-color: #7e8c8d; width: 43.912389%; background-color: #6480d3; text-align: center; padding: 4px;">
 <h4><span style="font-family: Lato, sans-serif; color: #ffebf6;"><em><span style="font-size: 20px;">Event</span></em></span></h4>
 </th>
-<th scope="col" style="border-color: #7e8c8d; width: 29.403325%; background-color: #6480d3; text-align: center; vertical-align: middle;"><span style="font-family: Lato, sans-serif; color: #ffebf6;"><em><span style="font-size: 20px;">Notes</span></em></span></th>
+<th scope="col" style="border-color: #7e8c8d; width: 29.403325%; background-color: #6480d3; text-align: center; vertical-align: middle; padding: 4px;"><span style="font-family: Lato, sans-serif; color: #ffebf6;"><em><span style="font-size: 20px;">Notes</span></em></span></th>
 </tr>
 </thead>
 <tbody>
 <tr style="height: 84.558815px;">
-<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-08-18">Mon, Aug 18, 2025</time></span></td>
-<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">First Class Day (Fall 2025)</span></td>
-<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Classes begin</span></td>
+<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-08-18">Mon, Aug 18, 2025</time></span></td>
+<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">First Class Day (Fall 2025)</span></td>
+<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Classes begin</span></td>
 </tr>
 <tr style="height: 84.558815px;">
-<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-08-21T23:59">Thu, Aug 21, 2025&nbsp;</time></span></td>
-<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Registration &amp; Drop/Add Period End</span></td>
-<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Last day to add/drop</span></td>
+<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-08-21T23:59">Thu, Aug 21, 2025&nbsp;</time></span></td>
+<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Registration &amp; Drop/Add Period End</span></td>
+<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Last day to add/drop</span></td>
 </tr>
 <tr style="height: 49.264702px;">
-<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-09-01">Mon, Sept 1</time></span></td>
-<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Labor Day (No Classes)</span></td>
-<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">University closed</span></td>
+<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-09-01">Mon, Sept 1</time></span></td>
+<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Labor Day (No Classes)</span></td>
+<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">University closed</span></td>
 </tr>
 <tr style="height: 119.852936px;">
-<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-10-09">Thu, Oct 9</time></span></td>
-<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Midterm grades released</span></td>
-<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Students view midterm grades in Banner</span></td>
+<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-10-09">Thu, Oct 9</time></span></td>
+<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Midterm grades released</span></td>
+<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Students view midterm grades in Banner</span></td>
 </tr>
 <tr style="height: 84.558815px;">
-<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-10-13">Oct 13 (Mon)</time>–<time datetime="2025-10-14">Oct 14 (Tue)</time></span></td>
-<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Fall Break</span></td>
-<td style="border-color: #7e8c8d; background-color: #ffffff; border-style: solid; width: 29.403325%; text-align: center;"><span style="font-family: Lato, sans-serif;">No classes</span></td>
+<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-10-13">Oct 13 (Mon)</time>–<time datetime="2025-10-14">Oct 14 (Tue)</time></span></td>
+<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Fall Break</span></td>
+<td style="border-color: #7e8c8d; background-color: #ffffff; border-style: solid; width: 29.403325%; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">No classes</span></td>
 </tr>
 <tr style="height: 119.852936px;">
-<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-10-30">Thu, Oct 30</time></span></td>
-<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Withdrawal Deadline</span></td>
-<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Last day to withdraw without academic penalty</span></td>
+<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-10-30">Thu, Oct 30</time></span></td>
+<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Withdrawal Deadline</span></td>
+<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Last day to withdraw without academic penalty</span></td>
 </tr>
 <tr style="height: 119.852936px;">
-<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-11-03">Mon, Nov 3</time></span></td>
-<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Registration Begins for Spring &amp; Summer 2026</span></td>
-<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">See your advisor before registration begins!</span></td>
+<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-11-03">Mon, Nov 3</time></span></td>
+<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Registration Begins for Spring &amp; Summer 2026</span></td>
+<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">See your advisor before registration begins!</span></td>
 </tr>
 <tr style="height: 84.558815px;">
-<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-11-26">Nov 26 (Wed)</time>–<time datetime="2025-11-28">Nov 28 (Fri)</time></span></td>
-<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Thanksgiving Holidays</span></td>
-<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">No classes</span></td>
+<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-11-26">Nov 26 (Wed)</time>–<time datetime="2025-11-28">Nov 28 (Fri)</time></span></td>
+<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Thanksgiving Holidays</span></td>
+<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">No classes</span></td>
 </tr>
 <tr style="height: 49.264702px;">
-<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-12-08">Mon, Dec 8</time></span></td>
-<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Last Class Day</span></td>
-<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center;"></td>
+<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-12-08">Mon, Dec 8</time></span></td>
+<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Last Class Day</span></td>
+<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center; padding: 4px;"></td>
 </tr>
 <tr style="height: 84.558815px;">
-<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-12-09">Dec 9 (Tue)</time>–<time datetime="2025-12-12">Dec 12 (Fri)</time></span></td>
-<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">VSU Final Exams Window</span></td>
-<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center;"></td>
+<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;"><time datetime="2025-12-09">Dec 9 (Tue)</time>–<time datetime="2025-12-12">Dec 12 (Fri)</time></span></td>
+<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">VSU Final Exams Window</span></td>
+<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center; padding: 4px;"></td>
 </tr>
 <tr style="height: 119.852936px;">
-<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Mon., Dec 15&nbsp;</span></td>
-<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">Final grades released at 6 PM</span></td>
-<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center;"><span style="font-family: Lato, sans-serif;">View your final fall grades in Banner after 6PM</span></td>
+<td style="border-color: #7e8c8d; width: 26.578551%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Mon., Dec 15&nbsp;</span></td>
+<td style="border-color: #7e8c8d; width: 43.912389%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">Final grades released at 6 PM</span></td>
+<td class="sub" style="border-color: #7e8c8d; width: 29.403325%; background-color: #ffffff; text-align: center; padding: 4px;"><span style="font-family: Lato, sans-serif;">View your final fall grades in Banner after 6PM</span></td>
 </tr>
 </tbody>
 </table>
